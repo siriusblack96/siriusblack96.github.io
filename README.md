@@ -1,2 +1,2 @@
-# Personal Portfolio 🔥
-> https://siriusblack.96.github.io/
+# Personal Portfolio
+> https://siriusblack96.github.io/
